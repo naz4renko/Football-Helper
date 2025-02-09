@@ -1,0 +1,45 @@
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.AssemblyInfo.cs
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.DataBase\bin\Debug\net7.0\FootballHelper.DataBase.deps.json
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.DataBase\bin\Debug\net7.0\FootballHelper.DataBase.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.DataBase\bin\Debug\net7.0\FootballHelper.DataBase.pdb
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.DataBase\bin\Debug\net7.0\FootballHelper.Logic.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.DataBase\bin\Debug\net7.0\FootballHelper.Logic.pdb
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.csproj.CopyComplete
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.DataBase\obj\Debug\net7.0\refint\FootballHelper.DataBase.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.pdb
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.DataBase\obj\Debug\net7.0\ref\FootballHelper.DataBase.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\bin\Debug\net7.0\FootballHelper.DataBase.deps.json
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\bin\Debug\net7.0\FootballHelper.DataBase.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\bin\Debug\net7.0\FootballHelper.DataBase.pdb
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\bin\Debug\net7.0\FootballHelper.Logic.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\bin\Debug\net7.0\FootballHelper.Logic.pdb
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.csproj.AssemblyReference.cache
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.AssemblyInfoInputs.cache
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.AssemblyInfo.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.csproj.CoreCompileInputs.cache
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.csproj.CopyComplete
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\refint\FootballHelper.DataBase.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.pdb
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\ref\FootballHelper.DataBase.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\bin\Debug\net7.0\FootballHelper.DataBase.deps.json
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\bin\Debug\net7.0\FootballHelper.DataBase.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\bin\Debug\net7.0\FootballHelper.DataBase.pdb
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\bin\Debug\net7.0\FootballHelper.Logic.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\bin\Debug\net7.0\FootballHelper.Logic.pdb
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.csproj.AssemblyReference.cache
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.AssemblyInfoInputs.cache
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.AssemblyInfo.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.csproj.CoreCompileInputs.cache
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.csproj.CopyComplete
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\refint\FootballHelper.DataBase.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\FootballHelper.DataBase.pdb
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.DataBase\obj\Debug\net7.0\ref\FootballHelper.DataBase.dll

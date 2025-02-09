@@ -1,0 +1,190 @@
+﻿<UserControl x:Class="FootballHelper.WPF.View.MatchChanceStatsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FootballHelper.WPF.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Статистика матча"
+                   HorizontalAlignment="Center"
+                   FontSize="24"
+                   FontFamily="Arial"
+                   FontWeight="Bold"
+                   Foreground="Black"
+                   Margin="0,20"
+                   Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical" Margin="0,40" Grid.Row="0" Grid.Column="0">
+
+            <TextBlock Text="{Binding HomeClub}"
+                   HorizontalAlignment="Center"
+                   FontSize="20"
+                   FontFamily="Arial"
+                   FontWeight="Bold"
+                   Foreground="Black"
+                   Margin="0,20"/>
+
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <TextBlock Text="Владение: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+                <TextBox Text="{Binding HomePossession}"
+                     Height="30"
+                     Width="200"
+                     FontSize="14"
+                     FontFamily="Arial"
+                     FontWeight="Bold"
+                     Margin="23 ,0,0,0"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <TextBlock Text="Угловые: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+                <TextBox Text="{Binding HomeCorner}"
+                     Height="30"
+                     Width="200"
+                     FontSize="14"
+                     FontFamily="Arial"
+                     FontWeight="Bold"
+                     Margin="36,0,0,0"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <TextBlock Text="Оффсайды: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+                <TextBox Text="{Binding HomeOffside}"
+                     Height="30"
+                     Width="200"
+                     FontSize="14"
+                     FontFamily="Arial"
+                     FontWeight="Bold"
+                     Margin="5,0,0,0"/>
+            </StackPanel>
+
+           
+
+        </StackPanel>
+        
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical" Margin="0,40" Grid.Row="0" Grid.Column="1">
+
+            <TextBlock Text="{Binding AwayClub}"
+                   HorizontalAlignment="Center"
+                   FontSize="20"
+                   FontFamily="Arial"
+                   FontWeight="Bold"
+                   Foreground="Black"
+                   Margin="0,20"/>
+
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <TextBlock Text="Владение: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+                <TextBox Text="{Binding AwayPossession}"
+                     Height="30"
+                     Width="200"
+                     FontSize="14"
+                     FontFamily="Arial"
+                     FontWeight="Bold"
+                     Margin="23 ,0,0,0"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <TextBlock Text="Угловые: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+                <TextBox Text="{Binding AwayCorner}"
+                     Height="30"
+                     Width="200"
+                     FontSize="14"
+                     FontFamily="Arial"
+                     FontWeight="Bold"
+                     Margin="36,0,0,0"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="5">
+                <TextBlock Text="Оффсайды: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+                <TextBox Text="{Binding AwayOffside}"
+                     Height="30"
+                     Width="200"
+                     FontSize="14"
+                     FontFamily="Arial"
+                     FontWeight="Bold"
+                     Margin="5,0,0,0"/>
+            </StackPanel>
+
+
+
+        </StackPanel>
+
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="1" Grid.ColumnSpan="2">
+            <Button Content="{Binding ButtonText}"
+                Command="{Binding ComfirmStats}"
+                Height="50"
+                Width="180"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="{Binding ButtonTextColor}"
+                IsEnabled="{Binding IsButtonEnabled}"/>
+
+            <Button Content="Назад"
+                Command="{Binding ToMatch}"
+                Height="50"
+                Width="180"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="Black"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

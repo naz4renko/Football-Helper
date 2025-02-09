@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="View\ClubShortView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ClubStatsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ClubView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\CreateClubView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\CreateMatchView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\CreatePlayerView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\MatchChanceStatsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\MatchShortView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\MatchStatsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\MatchView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PlayerAddStatsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PlayerChangeStatsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PlayerShortView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PlayerStatsShortView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\PlayerView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\TableView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ClubShortView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ClubStatsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ClubView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\CreateClubView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\CreateMatchView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\CreatePlayerView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MatchChanceStatsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MatchShortView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MatchStatsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MatchView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PlayerAddStatsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PlayerChangeStatsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PlayerShortView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PlayerStatsShortView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\PlayerView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\TableView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

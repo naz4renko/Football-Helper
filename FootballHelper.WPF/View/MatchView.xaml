@@ -1,0 +1,68 @@
+﻿<UserControl x:Class="FootballHelper.WPF.View.MatchView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FootballHelper.WPF.View"
+             mc:Ignorable="d" 
+            d:DesignHeight="540" d:DesignWidth="1000">
+    <UserControl.Resources>
+        <BooleanToVisibilityConverter x:Key="bvc"/>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="140"/>
+        </Grid.RowDefinitions>
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="0">
+
+            <ListBox 
+                ItemsSource="{Binding Matches}"
+                SelectedItem="{Binding SelectedMatch}"
+                Background="Transparent"/>
+
+        </ScrollViewer>
+
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Grid.Row="1">
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Статистика"
+                    Command="{Binding ShowStats}" 
+                    Visibility="{Binding IsVisible, Converter={StaticResource ResourceKey=bvc}}"
+                Height="50"
+                Width="250"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="Black"/>
+
+                <Button Content="Удалить матч" 
+                Command="{Binding DeleteMatch}" 
+                Visibility="{Binding IsVisible, Converter={StaticResource ResourceKey=bvc}}"
+                Height="50"
+                Width="250"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="Black"/>
+            </StackPanel>
+
+            <Button Content="Добавить матч" 
+                    Command="{Binding AddMatch}" 
+                Height="50"
+                Width="250"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="Black"/>
+        </StackPanel>
+    </Grid>
+
+
+</UserControl>

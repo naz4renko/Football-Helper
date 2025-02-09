@@ -1,0 +1,109 @@
+﻿<UserControl x:Class="FootballHelper.WPF.View.CreatePlayerView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FootballHelper.WPF.View"
+             mc:Ignorable="d" 
+            d:DesignHeight="540" d:DesignWidth="1000">
+
+
+    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock Text="Добавление игрока"
+                   HorizontalAlignment="Center"
+                   FontSize="28"
+                   FontFamily="Arial"
+                   FontWeight="Bold"
+                   Foreground="Black"
+                   Margin="10"/>
+
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <TextBlock Text="Имя: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="24"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+            
+            <TextBox Text="{Binding Name}"
+                     Height="30"
+                     Width="200"
+                     FontSize="18"
+                     FontFamily="Arial"
+                     FontWeight="Bold"
+                     Margin="153,0,0,0"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <TextBlock Text="Национальность: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="24"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+            <TextBox Text="{Binding Nationality}"
+                     Height="30"
+                     Width="200"
+                     FontSize="18"
+                     FontFamily="Arial"
+                     FontWeight="Bold"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <TextBlock Text="Позиция: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="24"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+            <TextBox Text="{Binding Position}"
+                     Height="30"
+                     Width="200"
+                     FontSize="18"
+                     FontFamily="Arial"
+                     FontWeight="Bold"
+                     Margin="100,0,0,0"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <TextBlock Text="Дата Рождения: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="24"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+            <DatePicker SelectedDate="{Binding Birth}" Margin="70,0,0,0"/>
+        </StackPanel>
+
+        <Button Content="{Binding ButtonText}"
+                Command="{Binding CreatePlayer}"
+                IsEnabled="{Binding IsButtonEnabled}"
+                Height="50"
+                Width="250"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="{Binding ButtonTextColor}"
+/>
+
+        <Button Content="Назад"
+                Command="{Binding ToClub}"
+                Height="50"
+                Width="250"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="Black"/>
+    </StackPanel>
+</UserControl>

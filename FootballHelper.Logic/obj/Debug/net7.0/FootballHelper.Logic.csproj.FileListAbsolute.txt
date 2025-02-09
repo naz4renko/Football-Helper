@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.Logic\bin\Debug\net7.0\FootballHelper.Logic.deps.json
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.Logic\bin\Debug\net7.0\FootballHelper.Logic.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.Logic\bin\Debug\net7.0\FootballHelper.Logic.pdb
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.AssemblyInfo.cs
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.Logic\obj\Debug\net7.0\refint\FootballHelper.Logic.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.pdb
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.Logic\obj\Debug\net7.0\ref\FootballHelper.Logic.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\bin\Debug\net7.0\FootballHelper.Logic.deps.json
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\bin\Debug\net7.0\FootballHelper.Logic.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\bin\Debug\net7.0\FootballHelper.Logic.pdb
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.csproj.AssemblyReference.cache
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.AssemblyInfoInputs.cache
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.AssemblyInfo.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.csproj.CoreCompileInputs.cache
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\refint\FootballHelper.Logic.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.pdb
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\ref\FootballHelper.Logic.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\bin\Debug\net7.0\FootballHelper.Logic.deps.json
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\bin\Debug\net7.0\FootballHelper.Logic.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\bin\Debug\net7.0\FootballHelper.Logic.pdb
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.csproj.AssemblyReference.cache
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.AssemblyInfoInputs.cache
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.AssemblyInfo.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.csproj.CoreCompileInputs.cache
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\refint\FootballHelper.Logic.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\FootballHelper.Logic.pdb
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.Logic\obj\Debug\net7.0\ref\FootballHelper.Logic.dll

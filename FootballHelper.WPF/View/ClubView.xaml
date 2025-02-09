@@ -1,0 +1,79 @@
+﻿<UserControl x:Class="FootballHelper.WPF.View.ClubView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FootballHelper.WPF.View"
+             mc:Ignorable="d" 
+            d:DesignHeight="540" d:DesignWidth="1000">
+
+    <UserControl.Resources>
+        <BooleanToVisibilityConverter x:Key="bvc"/>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="9*"/>
+            <RowDefinition Height="150"/>
+        </Grid.RowDefinitions>
+
+            <TextBlock Text="{Binding Name}" 
+                   Grid.Row="0"
+                   HorizontalAlignment="Center" 
+                   Margin="5"
+                   FontSize="28"
+                   FontWeight="Bold"
+                   Foreground="Black"
+                   FontFamily="Arial"/>
+
+            <ScrollViewer Height="Auto" Width="Auto" VerticalScrollBarVisibility="Auto" Grid.Row="1">
+                <ListBox 
+                    ItemsSource="{Binding Players}"
+                    SelectedItem="{Binding SelectedPlayer}"
+                    FontSize="14"
+                    FontFamily="Arial"
+                    Background="Transparent"/>
+            </ScrollViewer>
+
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Перейти к игроку" 
+                Command="{Binding ShowPlayer}" 
+                Visibility="{Binding IsVisible, Converter={StaticResource ResourceKey=bvc}}"
+                Height="50"
+                Width="250"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="Black"/>
+
+                <Button Content="Удалить игрока" 
+                Command="{Binding DeletePlayer}"
+                Visibility="{Binding IsVisible, Converter={StaticResource ResourceKey=bvc}}"
+                Height="50"
+                Width="250"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="Black"/>
+            </StackPanel>
+
+            <Button Content="Добавить игрока" 
+                Command="{Binding AddPlayer}"
+                Height="50"
+                Width="250"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="Black"/>
+        </StackPanel>
+    </Grid>
+
+</UserControl>

@@ -1,0 +1,59 @@
+﻿<UserControl x:Class="FootballHelper.WPF.View.CreateClubView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FootballHelper.WPF.View"
+             mc:Ignorable="d" 
+            d:DesignHeight="540" d:DesignWidth="1000">
+
+
+    <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+        <TextBlock Text="Создание Клуба" 
+                   HorizontalAlignment="Center"
+                   FontSize="24"
+                   FontFamily="Arial"
+                   FontWeight="Bold"
+                   Foreground="Black"
+                   Margin="10"/>
+
+        <TextBlock Text="Введите наименование клуба:" 
+                   HorizontalAlignment="Center"
+                   FontSize="24"
+                   FontFamily="Arial"
+                   FontWeight="Bold"
+                   Foreground="Black"
+                   Margin="10"/>
+
+        <TextBox Text="{Binding Name}"
+                 Height="40"
+                 Width="300"
+                 FontSize="18"
+                 FontFamily="Arial"
+                 FontWeight="Bold"
+                 Margin="5" BorderBrush="Black"/>
+        
+        <Button Content="{Binding ButtonText}"
+                Command="{Binding CreateClub}"
+                IsEnabled="{Binding IsButtonEnabled}"
+                Height="50"
+                Width="250"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="{Binding ButtonTextColor}"/>
+        
+        <Button Content="Назад"
+                Command="{Binding ToTable}"
+                Height="50"
+                Width="250"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="Black"/>
+    </StackPanel>
+</UserControl>

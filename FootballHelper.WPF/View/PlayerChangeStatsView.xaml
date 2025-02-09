@@ -1,0 +1,162 @@
+﻿<UserControl x:Class="FootballHelper.WPF.View.PlayerChangeStatsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FootballHelper.WPF.View"
+             mc:Ignorable="d" 
+            d:DesignHeight="540" d:DesignWidth="1000">
+
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical">
+        
+        <TextBlock Text="Редактирование"
+                   HorizontalAlignment="Center"
+                   FontSize="24"
+                   FontFamily="Arial"
+                   FontWeight="Bold"
+                   Foreground="Black"
+                   Margin="5"/>
+
+        <TextBlock Text="{Binding Name}"
+                   HorizontalAlignment="Center"
+                   FontSize="20"
+                   FontFamily="Arial"
+                   FontWeight="Bold"
+                   Foreground="Black"
+                   Margin="5"/>
+
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <TextBlock Text="Голы: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+            <TextBox Text="{Binding Goals}"
+                     Height="30"
+                     Width="200"
+                     FontSize="14"
+                     FontFamily="Arial"
+                     FontWeight="Bold"
+                     Margin="71,0,0,0"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <TextBlock Text="Ассисты: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+            <TextBox Text="{Binding Assists}"
+                     Height="30"
+                     Width="200"
+                     FontSize="14"
+                     FontFamily="Arial"
+                     FontWeight="Bold"
+                     Margin="36,0,0,0"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <TextBlock Text="Удары: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+            <TextBox Text="{Binding Shoots}"
+                     Height="30"
+                     Width="200"
+                     FontSize="14"
+                     FontFamily="Arial"
+                     FontWeight="Bold"
+                     Margin="59,0,0,0"/>
+        </StackPanel>
+        
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <TextBlock Text="Отборы: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+            <TextBox Text="{Binding Tackling}"
+                     Height="30"
+                     Width="200"
+                     FontSize="14"
+                     FontFamily="Arial"
+                     FontWeight="Bold"
+                     Margin="44,0,0,0"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <TextBlock Text="Ж. карточка: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+            <ComboBox
+                  ItemsSource="{Binding YellowCardOptions}"
+                  SelectedItem="{Binding SelectedYellowCardOption}"
+                  Width="100"
+                  Margin="7,0,0,0">
+            </ComboBox>
+
+        </StackPanel>
+        
+        <StackPanel Orientation="Horizontal" Margin="5">
+            <TextBlock Text="К. Карточка: "
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+            <ComboBox
+                  ItemsSource="{Binding RedCardOptions}"
+                  SelectedItem="{Binding SelectedRedCardOption}"
+                  Width="100"
+                Margin="10,0,0,0">
+            </ComboBox>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Content="{Binding ButtonText}"
+                Command="{Binding ChangeStats}"
+                Height="50"
+                Width="180"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="Black"
+                IsEnabled="{Binding IsButtonEnabled}"/>
+            
+            <Button Content="Назад"
+                Command="{Binding ToMatch}"
+                Height="50"
+                Width="180"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="Black"/>
+        </StackPanel>
+        
+                
+    </StackPanel>
+    
+</UserControl>

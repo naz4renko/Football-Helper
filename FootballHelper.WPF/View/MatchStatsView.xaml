@@ -1,0 +1,215 @@
+﻿<UserControl x:Class="FootballHelper.WPF.View.MatchStatsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:FootballHelper.WPF.View"
+             mc:Ignorable="d" 
+            d:DesignHeight="540" d:DesignWidth="1000">
+
+    <UserControl.Resources>
+        <BooleanToVisibilityConverter x:Key="bvc"/>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0" Grid.RowSpan="4" Background="#FF6FBCFF"/>
+        <Grid Grid.Column="1" Grid.RowSpan="4" Background="#FFFF9494"/>
+
+        <TextBlock Text="{Binding HomeClubName}"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontSize="28"
+                   FontFamily="Arial"
+                   FontWeight="Bold"
+                   Foreground="Black"/>
+
+        <TextBlock Text="{Binding AwayClubName}"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontSize="28"
+                   FontFamily="Arial"
+                   FontWeight="Bold"
+                   Foreground="Black"
+                   Grid.Column="1"/>
+
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="{Binding HomeClubPossesion}"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+            <TextBlock Text="{Binding HomeClubCorners}"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+            <TextBlock Text="{Binding HomeClubOffsides}"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal" Grid.ColumnSpan="2" Grid.Row="1" >
+            <TextBlock Text="{Binding HomeGoals}"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="50"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"
+                       Margin="0,0,10,0"/>
+
+            <TextBlock Text=":"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="50"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+
+            <TextBlock Text="{Binding AwayGoals}"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="50"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"
+                       Margin="10,0,0,0"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1">
+            <TextBlock Text="{Binding AwayClubPossesion}"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+            <TextBlock Text="{Binding AwayClubCorners}"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+            <TextBlock Text="{Binding AwayClubOffsides}"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="20"
+                       FontFamily="Arial"
+                       FontWeight="Bold"
+                       Foreground="Black"/>
+        </StackPanel>
+
+        <ListBox 
+                ItemsSource="{Binding HomePlayersStats}"
+                SelectedItem="{Binding SelectedPlayerHome}"
+                FontSize="18"
+                FontFamily="Arial"
+                Background="Transparent" 
+                Height="Auto" 
+                Width="Auto"
+                HorizontalAlignment="Stretch"
+                VerticalAlignment="Top"
+                Grid.Row="2"
+                Margin="3"/>
+
+        <ListBox 
+                ItemsSource="{Binding AwayPlayersStats}"
+                SelectedItem="{Binding SelectedPlayerAway}"
+                FontSize="18"
+                FontFamily="Arial"
+                Background="Transparent" 
+                Height="Auto" 
+                Width="Auto"
+                HorizontalAlignment="Stretch"
+                VerticalAlignment="Top"
+                Grid.Row="2"
+                Grid.Column="1"
+                Margin="3"/>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Center">
+            <Button Content="Добавить" 
+                Command="{Binding AddStatHome}"
+                Height="50"
+                Width="200"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="Black"/>
+
+            <Button Content="Изменить" 
+                Command="{Binding ChangeStatHome}"
+                Visibility="{Binding IsVisibleH, Converter={StaticResource ResourceKey=bvc}}"
+                Height="50"
+                Width="200"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="Black"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Center">
+            <Button Content="Добавить" 
+                Command="{Binding AddStatAway}"
+                Height="50"
+                Width="200"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="Black"/>
+
+            <Button Content="Изменить" 
+                Command="{Binding ChangeStatAway}"
+                Visibility="{Binding IsVisibleA, Converter={StaticResource ResourceKey=bvc}}"
+                Height="50"
+                Width="200"
+                Margin="10"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="Transparent"
+                Foreground="Black"/>
+        </StackPanel>
+
+        <Button Content="Редактировать&#xA;   статистику" 
+                Command="{Binding ChangeMatchStat}"
+                Height="50"
+                Width="150"
+                FontFamily="Arial"
+                FontSize="18"
+                FontWeight="Bold"
+                Background="#FF74E855"
+                Foreground="Black"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Grid.RowSpan="2"
+                Grid.ColumnSpan="2"
+                Margin="0,10,0,0"/>
+
+    </Grid>
+</UserControl>

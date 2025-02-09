@@ -1,0 +1,151 @@
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.WPF.exe
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.WPF.deps.json
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.WPF.runtimeconfig.json
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.WPF.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.WPF.pdb
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF_MarkupCompile.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF_MarkupCompile.lref
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.g.resources
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.AssemblyInfo.cs
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\refint\FootballHelper.WPF.dll
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.pdb
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.genruntimeconfig.cache
+C:\Users\User\Desktop\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\FootballHelper.WPF\obj\Debug\net7.0-windows\ref\FootballHelper.WPF.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.WPF.exe
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.WPF.deps.json
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.WPF.runtimeconfig.json
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.WPF.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.WPF.pdb
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.DataBase.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.Logic.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.DataBase.pdb
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.Logic.pdb
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.csproj.AssemblyReference.cache
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\ClubShortView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\ClubStatsView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\ClubView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\CreateClubView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\CreateMatchView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\CreatePlayerView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchChanceStatsView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchShortView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchStatsView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerAddStatsView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerChangeStatsView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerShortView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerStatsShortView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\TableView.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\App.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF_MarkupCompile.cache
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF_MarkupCompile.lref
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\ClubShortView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\ClubStatsView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\ClubView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\CreateClubView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\CreateMatchView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\CreatePlayerView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchChanceStatsView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchShortView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchStatsView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerAddStatsView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerChangeStatsView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerShortView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerStatsShortView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\TableView.baml
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.g.resources
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.AssemblyInfoInputs.cache
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.AssemblyInfo.cs
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.csproj.CoreCompileInputs.cache
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.csproj.CopyComplete
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\refint\FootballHelper.WPF.dll
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.pdb
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.genruntimeconfig.cache
+D:\Учёба\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\ref\FootballHelper.WPF.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.WPF.exe
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.WPF.deps.json
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.WPF.runtimeconfig.json
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.WPF.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.WPF.pdb
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.DataBase.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.Logic.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.DataBase.pdb
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\bin\Debug\net7.0-windows\FootballHelper.Logic.pdb
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.csproj.AssemblyReference.cache
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\ClubShortView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\ClubStatsView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\ClubView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\CreateClubView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\CreateMatchView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\CreatePlayerView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchChanceStatsView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchShortView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchStatsView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerAddStatsView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerChangeStatsView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerShortView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerStatsShortView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\TableView.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\App.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF_MarkupCompile.cache
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF_MarkupCompile.lref
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\ClubShortView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\ClubStatsView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\ClubView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\CreateClubView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\CreateMatchView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\CreatePlayerView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchChanceStatsView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchShortView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchStatsView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\MatchView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerAddStatsView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerChangeStatsView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerShortView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerStatsShortView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\PlayerView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\View\TableView.baml
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.g.resources
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.AssemblyInfoInputs.cache
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.AssemblyInfo.cs
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.csproj.CoreCompileInputs.cache
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.csproj.CopyComplete
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\refint\FootballHelper.WPF.dll
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.pdb
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\FootballHelper.WPF.genruntimeconfig.cache
+D:\Учёба\Предыдущие курсы\3 курс 2 семестр\Технологии программирования (Спешилов)\Курсовой проект\Программа\FootballHelper.WPF\obj\Debug\net7.0-windows\ref\FootballHelper.WPF.dll
